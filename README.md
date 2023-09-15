@@ -1,4 +1,4 @@
-#System_registration_Store
+# System_registration_Store
 A registration system for customers, suppliers, employees and products.
 
 The code is divided into different menus, one for each sector (customer, supplier...)
