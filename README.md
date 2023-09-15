@@ -1,18 +1,18 @@
-# Sistema_cadastro_Loja
-Um sistema de cadastro para clientes, fornecedores, funcionarios e produtos.
+#System_registration_Store
+A registration system for customers, suppliers, employees and products.
 
-O código é dividido em menus diferentes um para cada setor (cliente, fornecedor ...)
+The code is divided into different menus, one for each sector (customer, supplier...)
 
-1-Menu clientes
-2-Menu fornecedor
-3-menu produto
-4-Menu funcionário
+1-Customers menu
+2-Supplier menu
+3-product menu
+4-Employee menu
 
-e dentro de cada menu temos as seguiintes opções 
-1-cadastrar
-2-alterar
-3-consultar todos 
-4-consultar por nome
-5-excluir por nome
-6-excluir todos
-7-Voltar para o menu principal
+and within each menu we have the following options
+1-register
+2-change
+3-consult all
+4-query by name
+5-delete by name
+6-delete all
+7-Return to the main menu
